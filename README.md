@@ -1,7 +1,7 @@
 # glavniGradovi
-Skup otvorenih podataka u kojem se nalaze neki od glavnih gradova u Europi. ybr/>
-Za svaki grad postoje podaci o državi u kojoj se nalazi, broju stanovnika u tom gradu iz određene godine, znamenitostima koje se nalaze u gradu...
-
+Skup otvorenih podataka u kojem se nalaze neki od glavnih gradova u Europi. <br/>
+Za svaki grad postoje podaci o državi u kojoj se nalazi, broju stanovnika u tom gradu iz određene godine, znamenitostima koje se nalaze u gradu... <br/>
+<br/>
 Licenca: Creative Commons Zero v1.0 Universal<br/>
 Autor: Iva Bazo <br/>
 Verzija skupa podataka: 1.0 <br/>
