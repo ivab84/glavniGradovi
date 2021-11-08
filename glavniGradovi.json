@@ -1,254 +1,216 @@
 [
- {
-   "imeGrada": "Atena",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "el",
-   "ISOoznakaDrzave": "GRC",
-   "imeDrzave": "Grčka",
-   "imeJezika": "novogrčki",
-   "brojStanovnika": 664046,
-   "godinaPopisa": "2011-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Akropola"
- },
- {
-   "imeGrada": "Atena",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "el",
-   "ISOoznakaDrzave": "GRC",
-   "imeDrzave": "Grčka",
-   "imeJezika": "novogrčki",
-   "brojStanovnika": 664046,
-   "godinaPopisa": "2011-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Partenon"
- },
- {
-   "imeGrada": "Beč",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "de",
-   "ISOoznakaDrzave": "AUT",
-   "imeDrzave": "Austrija",
-   "imeJezika": "njemački",
-   "brojStanovnika": 1840573,
-   "godinaPopisa": "2016-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Dvorac Belvedere"
- },
- {
-   "imeGrada": "Beč",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "de",
-   "ISOoznakaDrzave": "AUT",
-   "imeDrzave": "Austrija",
-   "imeJezika": "njemački",
-   "brojStanovnika": 1840573,
-   "godinaPopisa": "2016-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Bečka katedrala"
- },
- {
-   "imeGrada": "Berlin",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "de",
-   "ISOoznakaDrzave": "DEU",
-   "imeDrzave": "Njemačka",
-   "imeJezika": "njemački",
-   "brojStanovnika": 3562166,
-   "godinaPopisa": "2014-12-31",
-   "imeValute": "euro",
-   "nazivZnam": "Brandenburška vrata"
- },
- {
-   "imeGrada": "Berlin",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "de",
-   "ISOoznakaDrzave": "DEU",
-   "imeDrzave": "Njemačka",
-   "imeJezika": "njemački",
-   "brojStanovnika": 3562166,
-   "godinaPopisa": "2014-12-31",
-   "imeValute": "euro",
-   "nazivZnam": "Reichstag"
- },
- {
-   "imeGrada": "Budimpešta",
-   "ISOoznakaValute": "HUF",
-   "ISOoznakaJezika": "hu",
-   "ISOoznakaDrzave": "HUN",
-   "imeDrzave": "Mađarska",
-   "imeJezika": "mađarski",
-   "brojStanovnika": 1759407,
-   "godinaPopisa": "2015-01-01",
-   "imeValute": "mađarska forinta",
-   "nazivZnam": "Budimski dvorac"
- },
- {
-   "imeGrada": "Budimpešta",
-   "ISOoznakaValute": "HUF",
-   "ISOoznakaJezika": "hu",
-   "ISOoznakaDrzave": "HUN",
-   "imeDrzave": "Mađarska",
-   "imeJezika": "mađarski",
-   "brojStanovnika": 1759407,
-   "godinaPopisa": "2015-01-01",
-   "imeValute": "mađarska forinta",
-   "nazivZnam": "Zgrada mađarskog parlamenta"
- },
- {
-   "imeGrada": "Ljubljana",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "sl",
-   "ISOoznakaDrzave": "SVN",
-   "imeDrzave": "Slovenija",
-   "imeJezika": "slovenski",
-   "brojStanovnika": 279631,
-   "godinaPopisa": "2016-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Zmajski most"
- },
- {
-   "imeGrada": "Ljubljana",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "sl",
-   "ISOoznakaDrzave": "SVN",
-   "imeDrzave": "Slovenija",
-   "imeJezika": "slovenski",
-   "brojStanovnika": 279631,
-   "godinaPopisa": "2016-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Stari grad"
- },
- {
-   "imeGrada": "Madrid",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "es",
-   "ISOoznakaDrzave": "ESP",
-   "imeDrzave": "Španjolska",
-   "imeJezika": "španjolski",
-   "brojStanovnika": 3165235,
-   "godinaPopisa": "2014-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Kraljevska palača"
- },
- {
-   "imeGrada": "Madrid",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "es",
-   "ISOoznakaDrzave": "ESP",
-   "imeDrzave": "Španjolska",
-   "imeJezika": "španjolski",
-   "brojStanovnika": 3165235,
-   "godinaPopisa": "2014-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Plaza Mayor"
- },
- {
-   "imeGrada": "Pariz",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "fr",
-   "ISOoznakaDrzave": "FRA",
-   "imeDrzave": "Francuska",
-   "imeJezika": "francuski",
-   "brojStanovnika": 2241346,
-   "godinaPopisa": "2014-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Eiffelov toranj"
- },
- {
-   "imeGrada": "Pariz",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "fr",
-   "ISOoznakaDrzave": "FRA",
-   "imeDrzave": "Francuska",
-   "imeJezika": "francuski",
-   "brojStanovnika": 2241346,
-   "godinaPopisa": "2014-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Katedrala Notre-Dame"
- },
- {
-   "imeGrada": "Pariz",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "fr",
-   "ISOoznakaDrzave": "FRA",
-   "imeDrzave": "Francuska",
-   "imeJezika": "francuski",
-   "brojStanovnika": 2241346,
-   "godinaPopisa": "2014-01-01",
-   "imeValute": "euro",
-   "nazivZnam": "Louvre"
- },
- {
-   "imeGrada": "Rim",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "it",
-   "ISOoznakaDrzave": "ITA",
-   "imeDrzave": "Italija",
-   "imeJezika": "talijankski",
-   "brojStanovnika": 2874038,
-   "godinaPopisa": "2014-11-30",
-   "imeValute": "euro",
-   "nazivZnam": "Kolosej"
- },
- {
-   "imeGrada": "Rim",
-   "ISOoznakaValute": "EUR",
-   "ISOoznakaJezika": "it",
-   "ISOoznakaDrzave": "ITA",
-   "imeDrzave": "Italija",
-   "imeJezika": "talijankski",
-   "brojStanovnika": 2874038,
-   "godinaPopisa": "2014-11-30",
-   "imeValute": "euro",
-   "nazivZnam": "Rimski forum"
- },
- {
-   "imeGrada": "Varšava",
-   "ISOoznakaValute": "PLN",
-   "ISOoznakaJezika": "pl",
-   "ISOoznakaDrzave": "POL",
-   "imeDrzave": "Poljska",
-   "imeJezika": "poljski",
-   "brojStanovnika": 1748916,
-   "godinaPopisa": "2016-06-30",
-   "imeValute": "poljski zloti",
-   "nazivZnam": "Warsaw Uprising Museum"
- },
- {
-   "imeGrada": "Varšava",
-   "ISOoznakaValute": "PLN",
-   "ISOoznakaJezika": "pl",
-   "ISOoznakaDrzave": "POL",
-   "imeDrzave": "Poljska",
-   "imeJezika": "poljski",
-   "brojStanovnika": 1748916,
-   "godinaPopisa": "2016-06-30",
-   "imeValute": "poljski zloti",
-   "nazivZnam": "Palača kulture i znanosti"
- },
- {
-   "imeGrada": "Zagreb",
-   "ISOoznakaValute": "HRK",
-   "ISOoznakaJezika": "hr",
-   "ISOoznakaDrzave": "HRV",
-   "imeDrzave": "Hrvatska",
-   "imeJezika": "hrvatski",
-   "brojStanovnika": 789655,
-   "godinaPopisa": "2011-01-01",
-   "imeValute": "hrvatska kuna",
-   "nazivZnam": "Crkva sv. Marka"
- },
- {
-   "imeGrada": "Zagreb",
-   "ISOoznakaValute": "HRK",
-   "ISOoznakaJezika": "hr",
-   "ISOoznakaDrzave": "HRV",
-   "imeDrzave": "Hrvatska",
-   "imeJezika": "hrvatski",
-   "brojStanovnika": 789655,
-   "godinaPopisa": "2011-01-01",
-   "imeValute": "hrvatska kuna",
-   "nazivZnam": "Zagrebačka katedrala"
- }
+  {
+    "imeGrada": "Beč",
+    "brojStanovnika": 1897000,
+    "povrsinaKm2": 414.6,
+    "drzavaISO": "AUT",
+    "imeDrzave": "Austrija",
+    "sluzbeniJezikISO": "de",
+    "imeJezika": "njemački",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Bečka katedrala (Katedrala Sv. Stjepana)": 13,
+        "Stephansplatz 4": "1010"
+      },
+      {
+        "Dvorac Belvedere": 18,
+        "Prinz Eugen-Straße 27": "1030"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Berlin",
+    "brojStanovnika": 3645000,
+    "povrsinaKm2": 891.8,
+    "drzavaISO": "DEU",
+    "imeDrzave": "Njemačka",
+    "sluzbeniJezikISO": "de",
+    "imeJezika": "njemački",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Reichstag": 19,
+        "Platz der Republik": "11011"
+      },
+      {
+        "Brandenburška vrata": 18,
+        "Pariser Platz": "10117"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Budimpešta",
+    "brojStanovnika": 1756000,
+    "povrsinaKm2": 525.2,
+    "drzavaISO": "HUN",
+    "imeDrzave": "Mađarska",
+    "sluzbeniJezikISO": "hu",
+    "imeJezika": "mađarski",
+    "valutaISO": "HUF",
+    "imeValute": "mađarska forinta",
+    "znamenitost": [
+      {
+        "Budimski dvorac": 13,
+        "Szent György tér 2": "1014"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Ljubljana",
+    "brojStanovnika": 279631,
+    "povrsinaKm2": 163.8,
+    "drzavaISO": "SVN",
+    "imeDrzave": "Slovenija",
+    "sluzbeniJezikISO": "sl",
+    "imeJezika": "slovenski",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Zmajski most": 20,
+        "Prešernov trg 1": "1000 "
+      },
+      {
+        "Prešeren Square": 17,
+        "Prešernov trg 1": "1000 "
+      }
+    ]
+  },
+  {
+    "imeGrada": "Madrid",
+    "brojStanovnika": 3223000,
+    "povrsinaKm2": 604.3,
+    "drzavaISO": "ESP",
+    "imeDrzave": "Španjolska",
+    "sluzbeniJezikISO": "es",
+    "imeJezika": "španjolski",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Kraljevska palača": 18,
+        "C. de Bailén, s/n": "28071 "
+      },
+      {
+        "Plaza Mayor": 17,
+        "Pl. Mayor": "28012 "
+      }
+    ]
+  },
+  {
+    "imeGrada": "Moskva",
+    "brojStanovnika": 11920000,
+    "povrsinaKm2": 2511,
+    "drzavaISO": "RUS",
+    "imeDrzave": "Rusija",
+    "sluzbeniJezikISO": "ru",
+    "imeJezika": "ruski",
+    "valutaISO": "RUB",
+    "imeValute": "ruska rublja",
+    "znamenitost": [
+      {
+        "Katedrala sv. Vasilija Blaženog": 16,
+        "Red Square": "109012"
+      },
+      {
+        "Crveni trg": 16,
+        "Red Square": "109012"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Pariz",
+    "brojStanovnika": 2161000,
+    "povrsinaKm2": 105.4,
+    "drzavaISO": "FRA",
+    "imeDrzave": "Francuska",
+    "sluzbeniJezikISO": "fr",
+    "imeJezika": "francuski",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Katedrala Notre-Dame": 12,
+        "6 Parvis Notre-Dame - Pl. Jean-Paul II": "75004 "
+      },
+      {
+        "Louvre": 18,
+        "Rue de Rivoli": "75001 "
+      },
+      {
+        "Eiffelov toranj": 19,
+        "Champ de Mars, 5 Av. Anatole France": "75007"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Rim",
+    "brojStanovnika": 2873000,
+    "povrsinaKm2": 1285,
+    "drzavaISO": "ITA",
+    "imeDrzave": "Italija",
+    "sluzbeniJezikISO": "it",
+    "imeJezika": "talijankski",
+    "valutaISO": "EUR",
+    "imeValute": "euro",
+    "znamenitost": [
+      {
+        "Kolosej": 1,
+        "Piazza del Colosseo, 1": "00184 "
+      }
+    ]
+  },
+  {
+    "imeGrada": "Varšava",
+    "brojStanovnika": 1765000,
+    "povrsinaKm2": 517.2,
+    "drzavaISO": "POL",
+    "imeDrzave": "Poljska",
+    "sluzbeniJezikISO": "pl",
+    "imeJezika": "poljski",
+    "valutaISO": "PLN",
+    "imeValute": "poljski zloti",
+    "znamenitost": [
+      {
+        "Palača kulture i znanosti": 20,
+        "plac Defilad 1": "00-901"
+      },
+      {
+        "Muzej Varšavskog ustanka": 20,
+        "Grzybowska 79": "00-844"
+      }
+    ]
+  },
+  {
+    "imeGrada": "Zagreb",
+    "brojStanovnika": 806341,
+    "povrsinaKm2": 641,
+    "drzavaISO": "HRV",
+    "imeDrzave": "Hrvatska",
+    "sluzbeniJezikISO": "hr",
+    "imeJezika": "hrvatski",
+    "valutaISO": "HRK",
+    "imeValute": "hrvatska kuna",
+    "znamenitost": [
+      {
+        "Muzej Mimara": 19,
+        "Trg Sv. Marka 5": "10000"
+      },
+      {
+        "Crkva sv. Marka": 14,
+        "Trg Sv. Marka 5": "10000"
+      },
+      {
+        "Crkva sv. Marka": 14,
+        "Rooseveltov trg 5": "10000"
+      },
+      {
+        "Muzej Mimara": 19,
+        "Rooseveltov trg 5": "10000"
+      }
+    ]
+  }
 ]
