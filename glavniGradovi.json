@@ -11,12 +11,16 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Bečka katedrala (Katedrala Sv. Stjepana)": 13,
-        "Stephansplatz 4": "1010"
+        "imeZnam": "Bečka katedrala (Katedrala Sv. Stjepana)",
+        "steljeceGradnje": 13,
+        "ulica": "Stephansplatz 4",
+        "postBroj": "1010"
       },
       {
-        "Dvorac Belvedere": 18,
-        "Prinz Eugen-Straße 27": "1030"
+        "imeZnam": "Dvorac Belvedere",
+        "steljeceGradnje": 18,
+        "ulica": "Prinz Eugen-Straße 27",
+        "postBroj": "1030"
       }
     ]
   },
@@ -32,12 +36,16 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Reichstag": 19,
-        "Platz der Republik": "11011"
+        "imeZnam": "Reichstag",
+        "steljeceGradnje": 19,
+        "ulica": "Platz der Republik",
+        "postBroj": "11011"
       },
       {
-        "Brandenburška vrata": 18,
-        "Pariser Platz": "10117"
+        "imeZnam": "Brandenburška vrata",
+        "steljeceGradnje": 18,
+        "ulica": "Pariser Platz",
+        "postBroj": "10117"
       }
     ]
   },
@@ -53,8 +61,10 @@
     "imeValute": "mađarska forinta",
     "znamenitost": [
       {
-        "Budimski dvorac": 13,
-        "Szent György tér 2": "1014"
+        "imeZnam": "Budimski dvorac",
+        "steljeceGradnje": 13,
+        "ulica": "Szent György tér 2",
+        "postBroj": "1014"
       }
     ]
   },
@@ -70,12 +80,16 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Zmajski most": 20,
-        "Prešernov trg 1": "1000 "
+        "imeZnam": "Zmajski most",
+        "steljeceGradnje": 20,
+        "ulica": "Prešernov trg 1",
+        "postBroj": "1000 "
       },
       {
-        "Prešeren Square": 17,
-        "Prešernov trg 1": "1000 "
+        "imeZnam": "Prešeren Square",
+        "steljeceGradnje": 17,
+        "ulica": "Prešernov trg 1",
+        "postBroj": "1000 "
       }
     ]
   },
@@ -91,12 +105,16 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Kraljevska palača": 18,
-        "C. de Bailén, s/n": "28071 "
+        "imeZnam": "Kraljevska palača",
+        "steljeceGradnje": 18,
+        "ulica": "C. de Bailén, s/n",
+        "postBroj": "28071 "
       },
       {
-        "Plaza Mayor": 17,
-        "Pl. Mayor": "28012 "
+        "imeZnam": "Plaza Mayor",
+        "steljeceGradnje": 17,
+        "ulica": "Pl. Mayor",
+        "postBroj": "28012 "
       }
     ]
   },
@@ -112,12 +130,16 @@
     "imeValute": "ruska rublja",
     "znamenitost": [
       {
-        "Katedrala sv. Vasilija Blaženog": 16,
-        "Red Square": "109012"
+        "imeZnam": "Katedrala sv. Vasilija Blaženog",
+        "steljeceGradnje": 16,
+        "ulica": "Red Square",
+        "postBroj": "109012"
       },
       {
-        "Crveni trg": 16,
-        "Red Square": "109012"
+        "imeZnam": "Crveni trg",
+        "steljeceGradnje": 16,
+        "ulica": "Red Square",
+        "postBroj": "109012"
       }
     ]
   },
@@ -133,16 +155,22 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Katedrala Notre-Dame": 12,
-        "6 Parvis Notre-Dame - Pl. Jean-Paul II": "75004 "
+        "imeZnam": "Katedrala Notre-Dame",
+        "steljeceGradnje": 12,
+        "ulica": "6 Parvis Notre-Dame - Pl. Jean-Paul II",
+        "postBroj": "75004 "
       },
       {
-        "Louvre": 18,
-        "Rue de Rivoli": "75001 "
+        "imeZnam": "Louvre",
+        "steljeceGradnje": 18,
+        "ulica": "Rue de Rivoli",
+        "postBroj": "75001 "
       },
       {
-        "Eiffelov toranj": 19,
-        "Champ de Mars, 5 Av. Anatole France": "75007"
+        "imeZnam": "Eiffelov toranj",
+        "steljeceGradnje": 19,
+        "ulica": "Champ de Mars, 5 Av. Anatole France",
+        "postBroj": "75007"
       }
     ]
   },
@@ -158,8 +186,10 @@
     "imeValute": "euro",
     "znamenitost": [
       {
-        "Kolosej": 1,
-        "Piazza del Colosseo, 1": "00184 "
+        "imeZnam": "Kolosej",
+        "steljeceGradnje": 1,
+        "ulica": "Piazza del Colosseo, 1",
+        "postBroj": "00184 "
       }
     ]
   },
@@ -175,12 +205,16 @@
     "imeValute": "poljski zloti",
     "znamenitost": [
       {
-        "Palača kulture i znanosti": 20,
-        "plac Defilad 1": "00-901"
+        "imeZnam": "Palača kulture i znanosti",
+        "steljeceGradnje": 20,
+        "ulica": "plac Defilad 1",
+        "postBroj": "00-901"
       },
       {
-        "Muzej Varšavskog ustanka": 20,
-        "Grzybowska 79": "00-844"
+        "imeZnam": "Muzej Varšavskog ustanka",
+        "steljeceGradnje": 20,
+        "ulica": "Grzybowska 79",
+        "postBroj": "00-844"
       }
     ]
   },
@@ -196,20 +230,28 @@
     "imeValute": "hrvatska kuna",
     "znamenitost": [
       {
-        "Muzej Mimara": 19,
-        "Trg Sv. Marka 5": "10000"
+        "imeZnam": "Muzej Mimara",
+        "steljeceGradnje": 19,
+        "ulica": "Trg Sv. Marka 5",
+        "postBroj": "10000"
       },
       {
-        "Crkva sv. Marka": 14,
-        "Trg Sv. Marka 5": "10000"
+        "imeZnam": "Crkva sv. Marka",
+        "steljeceGradnje": 14,
+        "ulica": "Trg Sv. Marka 5",
+        "postBroj": "10000"
       },
       {
-        "Crkva sv. Marka": 14,
-        "Rooseveltov trg 5": "10000"
+        "imeZnam": "Crkva sv. Marka",
+        "steljeceGradnje": 14,
+        "ulica": "Rooseveltov trg 5",
+        "postBroj": "10000"
       },
       {
-        "Muzej Mimara": 19,
-        "Rooseveltov trg 5": "10000"
+        "imeZnam": "Muzej Mimara",
+        "steljeceGradnje": 19,
+        "ulica": "Rooseveltov trg 5",
+        "postBroj": "10000"
       }
     ]
   }
