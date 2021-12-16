@@ -1,258 +1,257 @@
 [
-  {
-    "imeGrada": "Beč",
-    "brojStanovnika": 1897000,
-    "povrsinaKm2": 414.6,
-    "drzavaISO": "AUT",
-    "imeDrzave": "Austrija",
-    "sluzbeniJezikISO": "de",
-    "imeJezika": "njemački",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Bečka katedrala (Katedrala Sv. Stjepana)",
-        "steljeceGradnje": 13,
-        "ulica": "Stephansplatz 4",
-        "postBroj": "1010"
-      },
-      {
-        "imeZnam": "Dvorac Belvedere",
-        "steljeceGradnje": 18,
-        "ulica": "Prinz Eugen-Straße 27",
-        "postBroj": "1030"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Berlin",
-    "brojStanovnika": 3645000,
-    "povrsinaKm2": 891.8,
-    "drzavaISO": "DEU",
-    "imeDrzave": "Njemačka",
-    "sluzbeniJezikISO": "de",
-    "imeJezika": "njemački",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Reichstag",
-        "steljeceGradnje": 19,
-        "ulica": "Platz der Republik",
-        "postBroj": "11011"
-      },
-      {
-        "imeZnam": "Brandenburška vrata",
-        "steljeceGradnje": 18,
-        "ulica": "Pariser Platz",
-        "postBroj": "10117"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Budimpešta",
-    "brojStanovnika": 1756000,
-    "povrsinaKm2": 525.2,
-    "drzavaISO": "HUN",
-    "imeDrzave": "Mađarska",
-    "sluzbeniJezikISO": "hu",
-    "imeJezika": "mađarski",
-    "valutaISO": "HUF",
-    "imeValute": "mađarska forinta",
-    "znamenitost": [
-      {
-        "imeZnam": "Budimski dvorac",
-        "steljeceGradnje": 13,
-        "ulica": "Szent György tér 2",
-        "postBroj": "1014"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Ljubljana",
-    "brojStanovnika": 279631,
-    "povrsinaKm2": 163.8,
-    "drzavaISO": "SVN",
-    "imeDrzave": "Slovenija",
-    "sluzbeniJezikISO": "sl",
-    "imeJezika": "slovenski",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Zmajski most",
-        "steljeceGradnje": 20,
-        "ulica": "Prešernov trg 1",
-        "postBroj": "1000 "
-      },
-      {
-        "imeZnam": "Prešeren Square",
-        "steljeceGradnje": 17,
-        "ulica": "Prešernov trg 1",
-        "postBroj": "1000 "
-      }
-    ]
-  },
-  {
-    "imeGrada": "Madrid",
-    "brojStanovnika": 3223000,
-    "povrsinaKm2": 604.3,
-    "drzavaISO": "ESP",
-    "imeDrzave": "Španjolska",
-    "sluzbeniJezikISO": "es",
-    "imeJezika": "španjolski",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Kraljevska palača",
-        "steljeceGradnje": 18,
-        "ulica": "C. de Bailén, s/n",
-        "postBroj": "28071 "
-      },
-      {
-        "imeZnam": "Plaza Mayor",
-        "steljeceGradnje": 17,
-        "ulica": "Pl. Mayor",
-        "postBroj": "28012 "
-      }
-    ]
-  },
-  {
-    "imeGrada": "Moskva",
-    "brojStanovnika": 11920000,
-    "povrsinaKm2": 2511,
-    "drzavaISO": "RUS",
-    "imeDrzave": "Rusija",
-    "sluzbeniJezikISO": "ru",
-    "imeJezika": "ruski",
-    "valutaISO": "RUB",
-    "imeValute": "ruska rublja",
-    "znamenitost": [
-      {
-        "imeZnam": "Katedrala sv. Vasilija Blaženog",
-        "steljeceGradnje": 16,
-        "ulica": "Red Square",
-        "postBroj": "109012"
-      },
-      {
-        "imeZnam": "Crveni trg",
-        "steljeceGradnje": 16,
-        "ulica": "Red Square",
-        "postBroj": "109012"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Pariz",
-    "brojStanovnika": 2161000,
-    "povrsinaKm2": 105.4,
-    "drzavaISO": "FRA",
-    "imeDrzave": "Francuska",
-    "sluzbeniJezikISO": "fr",
-    "imeJezika": "francuski",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Katedrala Notre-Dame",
-        "steljeceGradnje": 12,
-        "ulica": "6 Parvis Notre-Dame - Pl. Jean-Paul II",
-        "postBroj": "75004 "
-      },
-      {
-        "imeZnam": "Louvre",
-        "steljeceGradnje": 18,
-        "ulica": "Rue de Rivoli",
-        "postBroj": "75001 "
-      },
-      {
-        "imeZnam": "Eiffelov toranj",
-        "steljeceGradnje": 19,
-        "ulica": "Champ de Mars, 5 Av. Anatole France",
-        "postBroj": "75007"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Rim",
-    "brojStanovnika": 2873000,
-    "povrsinaKm2": 1285,
-    "drzavaISO": "ITA",
-    "imeDrzave": "Italija",
-    "sluzbeniJezikISO": "it",
-    "imeJezika": "talijankski",
-    "valutaISO": "EUR",
-    "imeValute": "euro",
-    "znamenitost": [
-      {
-        "imeZnam": "Kolosej",
-        "steljeceGradnje": 1,
-        "ulica": "Piazza del Colosseo, 1",
-        "postBroj": "00184 "
-      }
-    ]
-  },
-  {
-    "imeGrada": "Varšava",
-    "brojStanovnika": 1765000,
-    "povrsinaKm2": 517.2,
-    "drzavaISO": "POL",
-    "imeDrzave": "Poljska",
-    "sluzbeniJezikISO": "pl",
-    "imeJezika": "poljski",
-    "valutaISO": "PLN",
-    "imeValute": "poljski zloti",
-    "znamenitost": [
-      {
-        "imeZnam": "Palača kulture i znanosti",
-        "steljeceGradnje": 20,
-        "ulica": "plac Defilad 1",
-        "postBroj": "00-901"
-      },
-      {
-        "imeZnam": "Muzej Varšavskog ustanka",
-        "steljeceGradnje": 20,
-        "ulica": "Grzybowska 79",
-        "postBroj": "00-844"
-      }
-    ]
-  },
-  {
-    "imeGrada": "Zagreb",
-    "brojStanovnika": 806341,
-    "povrsinaKm2": 641,
-    "drzavaISO": "HRV",
-    "imeDrzave": "Hrvatska",
-    "sluzbeniJezikISO": "hr",
-    "imeJezika": "hrvatski",
-    "valutaISO": "HRK",
-    "imeValute": "hrvatska kuna",
-    "znamenitost": [
-      {
-        "imeZnam": "Muzej Mimara",
-        "steljeceGradnje": 19,
-        "ulica": "Trg Sv. Marka 5",
-        "postBroj": "10000"
-      },
-      {
-        "imeZnam": "Crkva sv. Marka",
-        "steljeceGradnje": 14,
-        "ulica": "Trg Sv. Marka 5",
-        "postBroj": "10000"
-      },
-      {
-        "imeZnam": "Crkva sv. Marka",
-        "steljeceGradnje": 14,
-        "ulica": "Rooseveltov trg 5",
-        "postBroj": "10000"
-      },
-      {
-        "imeZnam": "Muzej Mimara",
-        "steljeceGradnje": 19,
-        "ulica": "Rooseveltov trg 5",
-        "postBroj": "10000"
-      }
-    ]
-  }
+	{
+		"imeGrada":"Beč",
+		"brojStanovnika":1897000,
+		"gradPovrsinaKm2":414.6,
+		"ISOoznakaDrzave":"AUT",
+		"imeDrzave":"Austrija",
+		"ISOoznakaSluzbenogJezika":"de",
+		"imeJezika":"njemački",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Bečka katedrala (Katedrala Sv. Stjepana)", 
+				"stoljeceGradnje" : 13, 
+				"ulica" : "Stephansplatz 4", 
+				"postanskiBroj" : "1010"
+			}, 
+			{
+				"imeZnamenitosti" : "Dvorac Belvedere", 
+				"stoljeceGradnje" : 18, 
+				"ulica" : "Prinz Eugen-Straße 27", 
+				"postanskiBroj" : "1030"
+			}
+		]
+	},
+	{
+		"imeGrada":"Berlin",
+		"brojStanovnika":3645000,
+		"gradPovrsinaKm2":891.8,
+		"ISOoznakaDrzave":"DEU",
+		"imeDrzave":"Njemačka",
+		"ISOoznakaSluzbenogJezika":"de",
+		"imeJezika":"njemački",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Reichstag", 
+				"stoljeceGradnje" : 19, 
+				"ulica" : "Platz der Republik", 
+				"postanskiBroj" : "11011"
+			}, 
+			{
+				"imeZnamenitosti" : "Brandenburška vrata", 
+				"stoljeceGradnje" : 18, 
+				"ulica" : "Pariser Platz", 
+				"postanskiBroj" : "10117"
+			}
+		]
+	},
+	{
+		"imeGrada":"Budimpešta",
+		"brojStanovnika":1756000,
+		"gradPovrsinaKm2":525.2,
+		"ISOoznakaDrzave":"HUN",
+		"imeDrzave":"Mađarska",
+		"ISOoznakaSluzbenogJezika":"hu",
+		"imeJezika":"mađarski",
+		"ISOoznakaValute":"HUF",
+		"imeValute":"mađarska forinta",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Zgrada mađarskog parlamenta", 
+				"stoljeceGradnje" : 19, 
+				"ulica" : "Kossuth Lajos tér 1-3", 
+				"postanskiBroj" : "1055"
+			}, 
+			{
+				"imeZnamenitosti" : "Budimski dvorac", 
+				"stoljeceGradnje" : 13, 
+				"ulica" : "Szent György tér 2", 
+				"postanskiBroj" : "1014"
+			}
+		]
+	},
+	{
+		"imeGrada":"Ljubljana",
+		"brojStanovnika":279631,
+		"gradPovrsinaKm2":163.8,
+		"ISOoznakaDrzave":"SVN",
+		"imeDrzave":"Slovenija",
+		"ISOoznakaSluzbenogJezika":"sl",
+		"imeJezika":"slovenski",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Prešeren Square", 
+				"stoljeceGradnje" : 17, 
+				"ulica" : "Prešernov trg 1", 
+				"postanskiBroj" : "1000 "
+			}, 
+			{
+				"imeZnamenitosti" : "Zmajski most", 
+				"stoljeceGradnje" : 20, 
+				"ulica" : "Resljeva cesta 2", 
+				"postanskiBroj" : "1000"
+			}
+		]
+	},
+	{
+		"imeGrada":"Madrid",
+		"brojStanovnika":3223000,
+		"gradPovrsinaKm2":604.3,
+		"ISOoznakaDrzave":"ESP",
+		"imeDrzave":"Španjolska",
+		"ISOoznakaSluzbenogJezika":"es",
+		"imeJezika":"španjolski",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Kraljevska palača", 
+				"stoljeceGradnje" : 18, 
+				"ulica" : "C. de Bailén, s/n", 
+				"postanskiBroj" : "28071 "
+			}, 
+			{
+				"imeZnamenitosti" : "Plaza Mayor", 
+				"stoljeceGradnje" : 17, 
+				"ulica" : "Pl. Mayor", 
+				"postanskiBroj" : "28012 "
+			}
+		]
+	},
+	{
+		"imeGrada":"Moskva",
+		"brojStanovnika":11920000,
+		"gradPovrsinaKm2":2511,
+		"ISOoznakaDrzave":"RUS",
+		"imeDrzave":"Rusija",
+		"ISOoznakaSluzbenogJezika":"ru",
+		"imeJezika":"ruski",
+		"ISOoznakaValute":"RUB",
+		"imeValute":"ruska rublja",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Katedrala sv. Vasilija Blaženog", 
+				"stoljeceGradnje" : 16, 
+				"ulica" : "Red Square", 
+				"postanskiBroj" : "109012"
+			}, 
+			{
+				"imeZnamenitosti" : "Crveni trg", 
+				"stoljeceGradnje" : 16, 
+				"ulica" : "Red Square", 
+				"postanskiBroj" : "109012"
+			}
+		]
+	},{
+		"imeGrada":"Pariz",
+		"brojStanovnika":2161000,
+		"gradPovrsinaKm2":105.4,
+		"ISOoznakaDrzave":"FRA",
+		"imeDrzave":"Francuska",
+		"ISOoznakaSluzbenogJezika":"fr",
+		"imeJezika":"francuski",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Eiffelov toranj", 
+				"stoljeceGradnje" : 19, 
+				"ulica" : "Champ de Mars, 5 Av. Anatole France", 
+				"postanskiBroj" : "75007"
+			}, 
+			{
+				"imeZnamenitosti" : "Louvre", 
+				"stoljeceGradnje" : 18, 
+				"ulica" : "Rue de Rivoli", 
+				"postanskiBroj" : "75001 "
+			}, 
+			{
+				"imeZnamenitosti" : "Katedrala Notre-Dame", 
+				"stoljeceGradnje" : 12, 
+				"ulica" : "6 Parvis Notre-Dame - Pl. Jean-Paul II", 
+				"postanskiBroj" : "75004 "
+			}
+		]
+	},
+	{
+		"imeGrada":"Rim",
+		"brojStanovnika":2873000,
+		"gradPovrsinaKm2":1285,
+		"ISOoznakaDrzave":"ITA",
+		"imeDrzave":"Italija",
+		"ISOoznakaSluzbenogJezika":"it",
+		"imeJezika":"talijanski",
+		"ISOoznakaValute":"EUR",
+		"imeValute":"euro",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Kolosej", 
+				"stoljeceGradnje" : 1, 
+				"ulica" : "Piazza del Colosseo, 1", 
+				"postanskiBroj" : "00184 "
+			}, 
+			{
+				"imeZnamenitosti" : "Fontana di Trevi", 
+				"stoljeceGradnje" : 18, 
+				"ulica" : "Piazza di Trevi", 
+				"postanskiBroj" : "00187"
+			}
+		]
+	},
+	{
+		"imeGrada":"Varšava",
+		"brojStanovnika":1765000,
+		"gradPovrsinaKm2":517.2,
+		"ISOoznakaDrzave":"POL",
+		"imeDrzave":"Poljska",
+		"ISOoznakaSluzbenogJezika":"pl",
+		"imeJezika":"poljski",
+		"ISOoznakaValute":"PLN",
+		"imeValute":"poljski zloti",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Palača kulture i znanosti", 
+				"stoljeceGradnje" : 20, 
+				"ulica" : "plac Defilad 1", 
+				"postanskiBroj" : "00-901"
+			}, 
+			{
+				"imeZnamenitosti" : "Muzej Varšavskog ustanka", 
+				"stoljeceGradnje" : 20, 
+				"ulica" : "Grzybowska 79", 
+				"postanskiBroj" : "00-844"
+			}
+		]
+	},
+	{
+		"imeGrada":"Zagreb",
+		"brojStanovnika":806341,
+		"gradPovrsinaKm2":641,
+		"ISOoznakaDrzave":"HRV",
+		"imeDrzave":"Hrvatska",
+		"ISOoznakaSluzbenogJezika":"hr",
+		"imeJezika":"hrvatski",
+		"ISOoznakaValute":"HRK",
+		"imeValute":"hrvatska kuna",
+		"znamenitost":[
+			{
+				"imeZnamenitosti" : "Crkva sv. Marka", 
+				"stoljeceGradnje" : 14, 
+				"ulica" : "Trg Sv. Marka 5", 
+				"postanskiBroj" : "10000"
+			}, 
+			{
+				"imeZnamenitosti" : "Muzej Mimara", 
+				"stoljeceGradnje" : 19, 
+				"ulica" : "Rooseveltov trg 5", 
+				"postanskiBroj" : "10000"
+			}
+		]
+	}
 ]

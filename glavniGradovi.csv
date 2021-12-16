@@ -1,11 +1,12 @@
-imeGrada,brojStanovnika,povrsinaKm2,drzavaISO,imeDrzave,sluzbeniJezikISO,imeJezika,valutaISO,imeValute,imeZnam,stoljeceGradnje,ulica,postBroj
+imeGrada,brojStanovnika,gradPovrsinaKm2,ISOoznakaDrzave,imeDrzave,ISOoznakaSluzbenogJezika,imeJezika,ISOoznakaValute,imeValute,imeZnamenitosti,stoljeceGradnje,ulica,postanskiBroj
 Beč,1897000,414.6,AUT,Austrija,de,njemački,EUR,euro,Bečka katedrala (Katedrala Sv. Stjepana),13,Stephansplatz 4,1010
 Beč,1897000,414.6,AUT,Austrija,de,njemački,EUR,euro,Dvorac Belvedere,18,Prinz Eugen-Straße 27,1030
 Berlin,3645000,891.8,DEU,Njemačka,de,njemački,EUR,euro,Brandenburška vrata,18,Pariser Platz,10117
 Berlin,3645000,891.8,DEU,Njemačka,de,njemački,EUR,euro,Reichstag,19,Platz der Republik,11011
 Budimpešta,1756000,525.2,HUN,Mađarska,hu,mađarski,HUF,mađarska forinta,Budimski dvorac,13,Szent György tér 2,1014
+Budimpešta,1756000,525.2,HUN,Mađarska,hu,mađarski,HUF,mađarska forinta,Zgrada mađarskog parlamenta,19,Kossuth Lajos tér 1-3,1055
 Ljubljana,279631,163.8,SVN,Slovenija,sl,slovenski,EUR,euro,Prešeren Square,17,Prešernov trg 1,1000 
-Ljubljana,279631,163.8,SVN,Slovenija,sl,slovenski,EUR,euro,Zmajski most,20,Prešernov trg 1,1000 
+Ljubljana,279631,163.8,SVN,Slovenija,sl,slovenski,EUR,euro,Zmajski most,20,Resljeva cesta 2,1000
 Madrid,3223000,604.3,ESP,Španjolska,es,španjolski,EUR,euro,Kraljevska palača,18,"C. de Bailén, s/n",28071 
 Madrid,3223000,604.3,ESP,Španjolska,es,španjolski,EUR,euro,Plaza Mayor,17,Pl. Mayor,28012 
 Moskva,11920000,2511,RUS,Rusija,ru,ruski,RUB,ruska rublja,Crveni trg,16,Red Square,109012
@@ -13,10 +14,9 @@ Moskva,11920000,2511,RUS,Rusija,ru,ruski,RUB,ruska rublja,Katedrala sv. Vasilija
 Pariz,2161000,105.4,FRA,Francuska,fr,francuski,EUR,euro,Eiffelov toranj,19,"Champ de Mars, 5 Av. Anatole France",75007
 Pariz,2161000,105.4,FRA,Francuska,fr,francuski,EUR,euro,Katedrala Notre-Dame,12,6 Parvis Notre-Dame - Pl. Jean-Paul II,75004 
 Pariz,2161000,105.4,FRA,Francuska,fr,francuski,EUR,euro,Louvre,18,Rue de Rivoli,75001 
-Rim,2873000,1285,ITA,Italija,it,talijankski,EUR,euro,Kolosej,1,"Piazza del Colosseo, 1",00184 
+Rim,2873000,1285,ITA,Italija,it,talijanski,EUR,euro,Fontana di Trevi,18,Piazza di Trevi,00187
+Rim,2873000,1285,ITA,Italija,it,talijanski,EUR,euro,Kolosej,1,"Piazza del Colosseo, 1",00184 
 Varšava,1765000,517.2,POL,Poljska,pl,poljski,PLN,poljski zloti,Muzej Varšavskog ustanka,20,Grzybowska 79,00-844
 Varšava,1765000,517.2,POL,Poljska,pl,poljski,PLN,poljski zloti,Palača kulture i znanosti,20,plac Defilad 1,00-901
-Zagreb,806341,641,HRV,Hrvatska,hr,hrvatski,HRK,hrvatska kuna,Crkva sv. Marka,14,Rooseveltov trg 5,10000
 Zagreb,806341,641,HRV,Hrvatska,hr,hrvatski,HRK,hrvatska kuna,Crkva sv. Marka,14,Trg Sv. Marka 5,10000
 Zagreb,806341,641,HRV,Hrvatska,hr,hrvatski,HRK,hrvatska kuna,Muzej Mimara,19,Rooseveltov trg 5,10000
-Zagreb,806341,641,HRV,Hrvatska,hr,hrvatski,HRK,hrvatska kuna,Muzej Mimara,19,Trg Sv. Marka 5,10000

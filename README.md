@@ -8,19 +8,34 @@ Autor: Iva Bazo <br/>
 Verzija skupa podataka: 1.0 <br/>
 Jezik u kojem se nalaze podaci: hrvatski, engleski <br/>
 Opis atributa: <br/>
-* "imeGrada" - ime glavnog grada
-* "brojStanovnika" - broj stanovnika glavnog grada
-* "povrsinaKm2" - povrsina glavnog grada u km^2
-* "ISOoznakaDrz" i "drzavaISO" - ISO oznaka države u kojoj se grad nalazi, norma ISO 3166-1
-* "imeDrzave" - ime države u kojoj se grad nalazi
-* "ISOoznakaJezik" i "sluzbeniJezikISO" - ISO oznaka jezika koji se koristi u državi u kojoj se nalazi grad, norma ISO 639-1
-* "imeJezika" - ime službenog jezika u državi u kojoj se grad nalazi
-* "ISOoznakaValuta" i "valutaISO" - ISO oznaka valute koja se koristi u državi u kojoj se nalazi grad, norma ISO 4217
-* "imeValute" - ime valute koja se koristi u državi u kojoj se grad nalazi
-* "postBroj" - poštanski broj grada (ili dijela grada)
-* "ulica" - ulica u gradu
-* "imeZnam" - ime znamenitosti koja se nalazi u gradu, po kojoj je grad poznat
-* "vrijemeGradnje" - vrijeme kada se znamenitost gradila
+	Tablica adresa:<br/>
+	* "drzavaISO" - ISO oznaka države
+	* "imeGrada" - ime grada
+	* "ulica" - ime ulice
+	* "postBroj" - poštanski broj
+	Tablica drzava:<br/>
+	* "ISOoznaka" - ISO oznaka države
+	* "ime" - ime države
+	* "sluzbeniJezikISO" - ISO oznaka jezika
+	* "valutaISO" - ISO oznaka valute
+	Tablica grad:<br/>
+	* "drzavaISO" - ISO oznaka države
+	* "ime" - ime grada
+	* "brojStanovnika" - broj stanovnika grada
+	* "povrsinaKm2" - površina grada
+	Tablica jezik:<br/>
+	* "ISOoznaka" - ISO oznaka jezika
+	* "ime" - ime jezika
+	Tablica valuta:<br/>
+	* "ISOoznaka" - ISO oznaka valute
+	* "ime" - ime valute 
+	Tablica znamenitost:<br/>
+	* "ime" - ime znamenitosti
+	* "imeGrada" - ime grada u kojem se znamenitost nalazi
+	* "drzavaISO" - ISO oznaka države
+	* "stoljeceGradnje" - stoljece kada se znamenitost gradila
+	* "postBroj" - poštanski broj 
+	* "ulica" - ime ulice u kojoj se znamenitost nalazi
 
 Norme koje se koriste:
 * ISO 3166-1 - oznaka države
